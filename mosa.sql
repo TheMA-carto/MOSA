@@ -1,8 +1,7 @@
 -- /SCRIPT s'automatisation de la création de la BD MOSA
 -- /Damien ROY aidé de Gilles Vuidel
 -- /Laboratoire ThéMA Besancon
--- /Version du 05/06/2015 (Finale)
-
+-- /Version du 05/06/2015
 
 
 --
